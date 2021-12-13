@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Artem but you can call me ToxidWorm
+### Hi, i'm ToxidWorm 👋
 
 Skills: C# / Python
 
