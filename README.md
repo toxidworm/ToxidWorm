@@ -2,4 +2,4 @@
 
 Skills: C# / Python
 
-- 🔭 I’m currently working on my own RAT
+- 🔭 I’m currently working with my virus generator
