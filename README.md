@@ -2,4 +2,4 @@
 
 Skills: C# / Python
 
-- 🔭 I’m currently working with my virus generator
+- > Universe will end anyways, why we exist?
