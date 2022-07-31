@@ -2,4 +2,4 @@
 
 Skills: C# / Python
 
-- > Universe will end anyways, why we exist?
+> Universe will end anyways, why we exist?
